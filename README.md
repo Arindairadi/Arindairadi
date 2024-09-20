@@ -41,10 +41,11 @@ Check out more on my [repositories](https://github.com/Arindairadi?tab=repositor
 
 ## 📫 How to Reach Me
 
-- Website: enjogerere.xyz](#)
-- LinkedIn: [linkedin.com/in/Arindairadi](#)
-- Email:iradiarinda63gmail.com.com
+- Website: enjogerere.xyz
+- LinkedIn: [linkedin.com/in/Arindairadi
+- Email:iradiarinda63gmail.com
 t.me/0750065243
+
 t.wa/0750065243
 
 ---
