@@ -45,7 +45,6 @@ Check out more on my [repositories](https://github.com/Arindairadi?tab=repositor
 - LinkedIn: [linkedin.com/in/Arindairadi
 - Email:iradiarinda63@gmail.com
 w.me/0750065243
-
 t.wa/0750065243
 
 ---
