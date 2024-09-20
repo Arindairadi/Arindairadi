@@ -30,7 +30,7 @@
         h1 {
             text-align: center;
             margin-bottom: 20px;
-            color: #4CAF50;
+            color: #2F4F4F;
         }
 
         label {
@@ -38,7 +38,7 @@
             font-size: 16px;
             margin-bottom: 8px;
             font-weight: bold;
-            color: #333;
+            color: #2F4F4F;
         }
 
         input[type="text"],
@@ -54,7 +54,7 @@
         input[type="submit"] {
             width: 100%;
             padding: 12px;
-            background-color: #4CAF50;
+            background-color: #2F4F4F;
             color: white;
             border: none;
             border-radius: 5px;
