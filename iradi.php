@@ -96,7 +96,7 @@
 <body>
 
     <div class="form-container">
-        <h1>Welcome Form</h1>
+        <h1>My First PHP Program</h1>
         <form method="POST" action="">
             <label for="name">Full Name:</label>
             <input type="text" id="name" name="name" required>
