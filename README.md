@@ -41,7 +41,7 @@ Check out more on my [repositories](https://github.com/Arindairadi?tab=repositor
 
 ## 📫 How to Reach Me
 
-- Website: enjogerere.xyz
+
 - LinkedIn: [linkedin.com/in/Arindairadi
 - Email:iradiarinda63@gmail.com
 w.me/0750065243
